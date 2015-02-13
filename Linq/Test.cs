@@ -29,8 +29,6 @@ namespace CathyLinq
             Car c4 = new Car("Toyota", "Yaris", "00-rd-121", 1600);
             Car c5 = new Car("Skinner", "Special", "15-itt-123", 2000);
 
-
-
             List<Car> cars = new List<Car>();
             cars.Add(c1);
             cars.Add(c2);
